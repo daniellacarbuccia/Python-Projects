@@ -1,1 +1,1 @@
-# Python-Projects
+Welcome to my Python portfolio! This repository showcases my journey of learning Python through various examples of code I've written. Feel free to explore and don't hesitate to reach out if you have any questions or feedback: daniellacarbuccia@gmail.com
